@@ -1,2 +1,2 @@
 # Practice
-This is a Practise section
+This is a Practice section
